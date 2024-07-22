@@ -1,0 +1,35 @@
+[
+  {
+    "LocationId": 297,
+    "LocationName": "Banglore"
+  },
+  {
+    "LocationId": 677,
+    "LocationName": "Hyderabad"
+  },
+  {
+    "LocationId": 962,
+    "LocationName": "Delhi"
+  },
+  {
+    "LocationId": 1719,
+    "LocationName": "Gurugram"
+  },
+  {
+    "LocationId": 1964,
+    "LocationName": "Noida"
+  },
+  
+  {
+    "LocationId": 3665,
+    "LocationName": "Raipur"
+  },
+  {
+    "LocationId": 3881,
+    "LocationName": "Durg"
+  },
+  {
+    "LocationId": 4546,
+    "LocationName": "Raigarh"
+  }
+]
